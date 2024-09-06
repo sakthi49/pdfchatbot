@@ -1,0 +1,23 @@
+langchain
+langchain-community
+ipykernel
+python-dotenv
+sentence_transformers
+pypdf
+faiss-cpu
+chromadb
+langchain_google_genai
+huggingface_hub
+google-generativeai
+PyPDF2
+langchain_huggingface
+ipywidgets
+unstructured
+pdfminer.six
+transformers
+rank_bm25
+flashrank
+streamlit
+graphviz
+torch
+-e .

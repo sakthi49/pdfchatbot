@@ -1,0 +1,10 @@
+README.md
+setup.py
+PDF_CHAT_BOT/__init__.py
+PDF_CHAT_BOT/helper.py
+PDF_CHAT_BOT/prompt.py
+PDF_CHAT_BOT/run_local.py
+PDF_CHAT_BOT.egg-info/PKG-INFO
+PDF_CHAT_BOT.egg-info/SOURCES.txt
+PDF_CHAT_BOT.egg-info/dependency_links.txt
+PDF_CHAT_BOT.egg-info/top_level.txt
