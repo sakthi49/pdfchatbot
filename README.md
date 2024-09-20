@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot (RAG)
 
 Step 1: After downloading this Folder , create an environment python 3.10 and activate it
 
@@ -14,3 +14,4 @@ Project Execution Video:
 Project Execution Video 2:
 
 [streamlit-demo-2024-09-20-18-09-90.webm](https://github.com/user-attachments/assets/7a8b5fd3-4696-4e13-9376-0b1558966357)
+
