@@ -11,3 +11,6 @@ Project Execution Video:
 
 [streamlit-demo-2024-09-20-18-09-05.webm](https://github.com/user-attachments/assets/f145be44-2079-4a71-a80a-cb0f8a7ea12d)
 
+Project Execution Video 2:
+
+[streamlit-demo-2024-09-20-18-09-90.webm](https://github.com/user-attachments/assets/7a8b5fd3-4696-4e13-9376-0b1558966357)
