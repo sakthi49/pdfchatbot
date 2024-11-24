@@ -9,6 +9,8 @@ PDF Chatbot is created using RAG methedologies
 
 This Chatbot can be utilized for Hybrid Search ( Keyword Search + Vector Similarity search ).
 
+Execution:
+
 Step 1: After downloading this Folder , create an environment python 3.10 and activate it
 
 Step 2: Download libraries / Packages available in requirements.txt
