@@ -1,4 +1,13 @@
-# Chatbot (RAG)
+# PDF Chatbot (RAG)
+
+PDF Chatbot is created using RAG methedologies
+- LLM: Gemini
+- Embedding Model: Huggingface embedding Model
+- VectorDB: FAISS
+- Reranker: FLASH
+- FrontEnd: Streamlit
+
+This Chatbot can be utilized for Hybrid Search ( Keyword Search + Vector Similarity search ).
 
 Step 1: After downloading this Folder , create an environment python 3.10 and activate it
 
